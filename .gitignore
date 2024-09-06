@@ -1,0 +1,21 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales o compilados
+*.tmp
+*.class
+
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos específicos de IDE
+.vscode/
+.idea/
+
+# Ignorar entornos virtuales de Python
+venv/
